@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "ZF65259WS6",
+    "m_SelectedPackage": {
+        "deviceId": "ZF65259WS6",
+        "name": "com.DefaultCompany.Test",
+        "processId": 18352,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 14850,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 21780,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 4273,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 8217,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 5381,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 17375,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 6344,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 11364,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 12491,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 16563,
+            "exited": false
+        },
+        {
+            "deviceId": "ZF65259WS6",
+            "name": "com.DefaultCompany.Test",
+            "processId": 18352,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
